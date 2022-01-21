@@ -1,6 +1,6 @@
 name = "Better Mount HUD"
 filename = "bettermounthud-1.1.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3380/384/bettermounthud-1.1.2.jar"

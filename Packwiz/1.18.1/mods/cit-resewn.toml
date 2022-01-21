@@ -1,6 +1,6 @@
 name = "CIT Resewn"
 filename = "CITResewn-0.9.1+1.18.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3609/263/CITResewn-0.9.1+1.18.1.jar"

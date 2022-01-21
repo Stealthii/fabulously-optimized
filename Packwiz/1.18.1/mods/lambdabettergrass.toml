@@ -1,6 +1,6 @@
 name = "LambdaBetterGrass"
 filename = "lambdabettergrass-1.2.2+1.17.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3584/355/lambdabettergrass-1.2.2+1.17.jar"

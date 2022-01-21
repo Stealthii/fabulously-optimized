@@ -1,6 +1,6 @@
 name = "Fabric Capes"
 filename = "Capes-1.2.2+1.17.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3510/854/Capes-1.2.2+1.17.jar"

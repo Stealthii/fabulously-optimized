@@ -1,6 +1,6 @@
 name = "TieFix"
 filename = "TieFix-1.8.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3582/452/TieFix-1.8.0.jar"

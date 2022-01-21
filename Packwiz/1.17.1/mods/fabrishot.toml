@@ -1,6 +1,6 @@
 name = "Fabrishot"
 filename = "fabrishot-1.5.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3381/995/fabrishot-1.5.1.jar"

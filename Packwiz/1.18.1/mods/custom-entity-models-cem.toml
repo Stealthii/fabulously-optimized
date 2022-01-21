@@ -1,6 +1,6 @@
 name = "Custom Entity Models (CEM)"
 filename = "cem-0.7.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3561/474/cem-0.7.0.jar"

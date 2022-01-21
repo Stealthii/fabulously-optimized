@@ -1,6 +1,6 @@
 name = "Better Beds"
 filename = "betterbeds-1.1.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3196/688/betterbeds-1.1.0.jar"

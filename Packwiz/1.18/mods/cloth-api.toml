@@ -1,6 +1,6 @@
 name = "Cloth API (Fabric)"
 filename = "cloth-api-2.0.54.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3336/395/cloth-api-2.0.54.jar"

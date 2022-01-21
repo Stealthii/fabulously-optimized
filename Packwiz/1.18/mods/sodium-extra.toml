@@ -1,6 +1,6 @@
 name = "Sodium Extra"
 filename = "sodium-extra-mc1.18-0.3.7.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3542/997/sodium-extra-mc1.18-0.3.7.jar"

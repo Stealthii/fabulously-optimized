@@ -1,6 +1,6 @@
 name = "Sodium"
 filename = "sodium-fabric-mc1.18.1-0.4.0-alpha6+build.14.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3605/309/sodium-fabric-mc1.18.1-0.4.0-alpha6+build.14.jar"

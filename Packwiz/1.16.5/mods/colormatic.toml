@@ -1,6 +1,6 @@
 name = "Colormatic"
 filename = "colormatic-2.2.9+mc.1.16.5.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3356/722/colormatic-2.2.9+mc.1.16.5.jar"

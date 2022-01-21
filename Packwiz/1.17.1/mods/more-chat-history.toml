@@ -1,6 +1,6 @@
 name = "More Chat History"
 filename = "morechathistory-1.17.1-1.1.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3448/302/morechathistory-1.17.1-1.1.0.jar"

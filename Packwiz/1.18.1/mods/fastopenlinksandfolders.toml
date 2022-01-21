@@ -1,6 +1,6 @@
 name = "FastOpenLinksAndFolders"
 filename = "fastopenlinksandfolders-1.0.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3590/993/fastopenlinksandfolders-1.0.1.jar"
